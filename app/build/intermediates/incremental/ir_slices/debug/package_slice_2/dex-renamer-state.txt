@@ -1,0 +1,4 @@
+#Sat Sep 15 14:17:25 MDT 2018
+base.0=/Users/walterzhang/OneDrive/CMPUT_301_Introduction_to_software_engineerng/lab_1/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
